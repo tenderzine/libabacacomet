@@ -1,0 +1,12 @@
+{
+  "name": "opcode-decoder-1bf968",
+  "version": "1.0.0",
+  "description": "A opcode decoder utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["opcode-decoder", "utility"],
+  "license": "MIT"
+}
